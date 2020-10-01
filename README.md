@@ -1,5 +1,5 @@
 # beadando
-Informatikai rendszerek építése
+Informatikai rendszerek építése beadandó
 
 
 Video: 
